@@ -105,7 +105,7 @@ end
 <hr>
 <H2>PROHRAM</H2>
 ## PROGRAM:
-```
+<PRE>
 import time
 
 class Game:
@@ -265,8 +265,9 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+</PRE>
 <h2>Sample Input and Output</h2>
+
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8ca1b08a-8312-4ef5-89df-e69b7b2c3fa2)
